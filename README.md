@@ -99,10 +99,17 @@ class PhatNgo:
 
 <!-- 3D contribution graph (from your GitHub Actions workflow) -->
 <p align="center">
-  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  <a href="https://raw.githubusercontent.com/pngo5/pngo5/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="https://raw.githubusercontent.com/pngo5/pngo5/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
   </a>
 </p>
+
+<!-- Alternate paths to try if the above doesn't work -->
+<!-- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pngo5/pngo5/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
+-->
 
 <!-- Explanation about the automated workflow -->
 <details>
