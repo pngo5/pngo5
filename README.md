@@ -78,7 +78,7 @@ class PhatNgo:
 ## 🎓 Education & Certifications
 - M.S. in Analytics (OMSA) @ Georgia Tech (courses: 6040, 6203, 6501, 6644)  
 - B.S. in Computer Information Systems @ Georgia State University  
-- Planning Series 7, 66, 63, 55 & 3 (asset management & trading licenses)  
+- Planning on getting if given a chance: Series 7, 66, 63, 55 & 3 (asset management & trading licenses)  
 
 ## GitHub Stats
 <p align="center">
