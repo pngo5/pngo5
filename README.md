@@ -3,7 +3,7 @@
 ```python
 class PhatNgo:
     def __init__(self):
-        self.role = "Senior Technology Consultant @ EY"
+        self.role = "Senior Technology Consultant"
         self.education = "M.S. Analytics @ Georgia Tech"
         self.location = "Atlanta, GA"
         self.skills = ["SAP", "Data Science", "Algorithmic Trading", "Enterprise Solutions"]
