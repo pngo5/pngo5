@@ -5,7 +5,7 @@ class PhatNgo:
     def __init__(self):
         self.role = "Senior Technology Consultant @ EY"
         self.education = "M.S. Analytics @ Georgia Tech"
-        self.location = "Ringgold, GA"
+        self.location = "Atlanta, GA"
         self.skills = ["SAP", "Data Science", "Algorithmic Trading", "Enterprise Solutions"]
         
     def current_focus(self):
