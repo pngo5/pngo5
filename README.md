@@ -1,8 +1,17 @@
 # Hi 👋, I'm Phat Ngo
 
-**Senior Technology Consultant @ EY** • **Master's in Analytics (OMSA) @ Georgia Tech**  
-Atlanta, GA • phatngo@gmail.com • [linkedin.com/in/phatngo](https://www.linkedin.com/in/phatngo)
-
+```python
+class PhatNgo:
+    def __init__(self):
+        self.role = "Senior Technology Consultant @ EY"
+        self.education = "M.S. Analytics @ Georgia Tech"
+        self.location = "Ringgold, GA"
+        self.skills = ["SAP", "Data Science", "Algorithmic Trading", "Enterprise Solutions"]
+        
+    def current_focus(self):
+        return "Leading SAP implementations while developing trading algorithms"
+```
+        
 <p align="center">
   <a href="https://www.linkedin.com/in/phatngo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
