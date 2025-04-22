@@ -83,7 +83,57 @@ class PhatNgo:
 ## GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pngo5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!-- Language stats card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pngo5&layout=compact&langs_count=8&theme=dracula"/>
 </p>
+
+<!-- GitHub streak stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pngo5&theme=dracula"/>
+</p>
+
+<!-- GitHub trophy stats -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pngo5&theme=dracula&column=7&margin-w=15&margin-h=15"/>
+</p>
+
+<!-- 3D contribution graph (from your GitHub Actions workflow) -->
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+  </a>
+</p>
+
+<!-- Explanation about the automated workflow -->
+<details>
+  <summary>🔄 Automated 3D Contribution Updates</summary>
+  
+  ```yml
+  name: GitHub-Profile-3D-Contrib
+  on:
+    schedule:
+      # Runs at 12AM UTC
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      name: generate-github-profile-3d-contrib
+      steps:
+        - uses: actions/checkout@v3
+        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+        - name: Commit & Push
+          run: |
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -A .
+            git commit -m "generated"
+            git push
+  ```
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pngo5/pngo5/output/github-snake-dark.svg" />
@@ -91,6 +141,13 @@ class PhatNgo:
   <img alt="github-snake" src="https://raw.githubusercontent.com/pngo5/pngo5/output/github-snake.svg" />
 </picture>
 
+<!-- Contribution activity graph -->
+<p align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pngo5&theme=dracula"/>
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pngo5&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pngo5?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/pngo5?style=flat-square&color=blue" alt="Stars" />
 </div>
