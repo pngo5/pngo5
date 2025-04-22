@@ -22,7 +22,7 @@ class PhatNgo:
 </p>
 
 ## 🔭 What I Do
-- Lead SAP implementation & intercompany‐transaction solutions on a large Zoetis pharmaceutical project  
+- Lead SAP implementation & intercompany‐transaction solutions on large pharmaceutical projects  
 - Design end‑to‑end data pipelines and machine‑learning proofs‑of‑concept in Python & R  
 - Develop algorithmic futures strategies (ES, NQ, GC, crude oil) in NinjaTrader  
 - Build interactive dashboards in Power BI, Tableau, Excel  
