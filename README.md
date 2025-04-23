@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40¢er=true&vCenter=true&width=600&height=80&duration=3000&lines=Hey,+World!+🚀;I'm+Phat+Ngo!;Building+Awesome+Stuff;Join+the+Adventure!&color=00FFFF&background=1A1A1A" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Yo,+What's+Up?!+🔥;I'm+Phat+Ngo!;Crafting+Epic+Projects;Let's+Make+Magic!&color=FF00FF&background=0D1117" />
 </h1>
 
 ```python
