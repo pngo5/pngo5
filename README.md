@@ -1,6 +1,5 @@
 # Hi 👋, I'm Phat Ngo
-# My Project
- 
+# 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Coding+Is+An+Equalizer;Coding+Is+A+Journey;Coding+Is+A+Lifestyle;Coding+Is+Transformation&color=00FFFF&background=0D1117" />
 </h1>
