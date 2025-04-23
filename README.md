@@ -1,7 +1,6 @@
 # Hi 👋, I'm Phat Ngo
 # My Project
 
-Check out the [Animated README](https://your-site.com/animated-readme.html) for a dynamic introduction!
 ```python
 class PhatNgo:
     def __init__(self):
