@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Phat+Ngo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40¢er=true&vCenter=true&width=600&height=80&duration=3000&lines=Hey,+World!+🚀;I'm+Phat+Ngo!;Building+Awesome+Stuff;Join+the+Adventure!&color=00FFFF&background=1A1A1A" />
 </h1>
 
 ```python
