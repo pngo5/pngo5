@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Coding+Is+An+Equalizer;Coding+Is+A+Journey;Coding+Is+A+Lifestyle;Coding+Is+Transformation&color=8be9fd&background=282a36" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Coding+Is+An+Equalizer;Coding+Is+A+Journey;Coding+Is+A+Lifestyle;Coding+Is+Transformation&color=8be9fd&background=#1a1b26" />
 </h1>
 
 <h1 align="center">
