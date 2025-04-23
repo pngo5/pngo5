@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cool Animated README</title>
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #0d1117, #1a1a1a);
+            font-family: 'Poppins', sans-serif;
+        }
+        .typed-text {
+            font-size: 3.5em;
+            font-weight: 700;
+            background: linear-gradient(45deg, #ff00ff, #00ffff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 15px rgba(255, 0, 255, 0.7), 0 0 25px rgba(0, 255, 255, 0.5);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <span class="typed-text"></span>
+
+    <script>
+        var options = {
+            strings: ["Yo, What's Up?! 🔥", "I'm Phat Ngo!", "Crafting Epic Projects", "Let's Make Magic!"],
+            typeSpeed: 70,
+            backSpeed: 35,
+            backDelay: 800,
+            loop: true
+        };
+        var typed = new Typed(".typed-text", options);
+    </script>
+</body>
+</html>
