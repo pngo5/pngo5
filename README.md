@@ -1,9 +1,10 @@
+# Phat Ngo's Portfolio
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Yo,+What's+Up?!+🔥;I'm+Phat+Ngo!;Crafting+Epic+Projects;Let's+Make+Magic!&color=FF00FF&background=0D1117" />
 </h1>
-# Phat Ngo's Portfolio
 
-Check out my [Epic Animated Intro 🚀](https://pngo5.github.io/pngo5/Animated_Text.html)!
+Welcome to my GitHub! I'm a passionate developer crafting epic projects. Explore my repositories to see my work in action! 🚀
 
 ```python
 class PhatNgo:
