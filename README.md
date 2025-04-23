@@ -1,10 +1,12 @@
 # Phat Ngo's Portfolio
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Yo,+What's+Up?!+🔥;I'm+Phat+Ngo!;Crafting+Epic+Projects;Let's+Make+Magic!&color=FF00FF&background=0D1117" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Yo,+What's+Up?!+🔥;I'm+Phat+Ngo!;Crafting+Epic+Projects;Let's+Make+Magic!&color=00FFFF&background=0D1117" />
 </h1>
 
 Welcome to my GitHub! I'm a passionate developer crafting epic projects. Explore my repositories to see my work in action! 🚀
+
+Check out my [Full Animated Intro 🚀](https://pngo5.github.io/pngo5/Animated_Text.html)!
 
 ```python
 class PhatNgo:
