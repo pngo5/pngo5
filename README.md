@@ -72,8 +72,6 @@ class PhatNgo:
   – Power‑iteration PageRank (1M nodes / 3M edges) with damping factor & personalized topics  
 - **Real Estate Price Predictor**  
   – Lasso & ridge regressions, feature engineering in scikit-learn  
-- **GitHub Snake Animation**  
-  – Automated SVG "snake" that eats your contribution graph every 6 hrs  
 
 ## 🎓 Education & Certifications
 - M.S. in Analytics (OMSA) @ Georgia Tech (courses: 6040, 6203, 6501, 6644)  
