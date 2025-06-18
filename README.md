@@ -32,14 +32,10 @@ class PhatNgo:
 - Build interactive dashboards in Power BI, Tableau, Excel  
 
 ## 🌱 Currently Learning
-- **Vietnamese** (business & technical fluency)  
-- **SAP Certifications**:  
-  - C_TS452_2410 – S/4HANA Sourcing & Procurement  
-  - C_TS462_2023 – S/4HANA Sales & Distribution  
-  - C_TS4FI_2023 – Financial Accounting  
 - **Advanced Enterprise AI** in SAP (extracellular flux analysis → immune bioenergetics)  
 - **Monte Carlo Simulations** & regime‑switching models for trading risk  
-
+- **Seris 7 and Series 63** 
+- **SIE Exam** 
 ## 🛠 Tech Stack
 ### Languages  
 <p align="left">
