@@ -35,7 +35,7 @@ class PhatNgo:
 - **Advanced Enterprise AI** in SAP (extracellular flux analysis → immune bioenergetics)  
 - **Monte Carlo Simulations** & regime‑switching models for trading risk  
 - **Seris 7 and Series 63** 
-- **SIE Exam** 
+- **Securities Industry Essentials** 
 ## 🛠 Tech Stack
 ### Languages  
 <p align="left">
