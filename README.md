@@ -1,7 +1,7 @@
 # Hi 👋, I'm Phat Ngo
-# 
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&lines=Coding+Is+An+Equalizer;Coding+Is+A+Journey;Coding+Is+A+Lifestyle;Coding+Is+Transformation&color=#ff6e96&background=282a36" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&color=ff6e96&background=282A36FF&lines=Coding+Is+An+Equalizer;Coding+Is+A+Journey;Coding+Is+A+Lifestyle;Coding+Is+Transformation" />
 </h1>
 
 ```python
@@ -34,7 +34,7 @@ class PhatNgo:
 ## 🌱 Currently Learning
 - **Advanced Enterprise AI** in SAP (extracellular flux analysis → immune bioenergetics)  
 - **Monte Carlo Simulations** & regime‑switching models for trading risk  
-- **Seris 7 and Series 63** 
+- **Series 7** and **Series 63**
 - **Securities Industry Essentials** 
 ## 🛠 Tech Stack
 ### Languages  
@@ -87,7 +87,7 @@ class PhatNgo:
 
 <!-- GitHub streak stats -->
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pngo5&theme=dracula"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=pngo5&theme=dracula"/>
 </p>
 
 <!-- GitHub trophy stats -->
