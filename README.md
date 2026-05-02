@@ -4,18 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=45&center=true&vCenter=true&width=650&height=90&duration=2500&color=ff6e96&background=282A36FF&lines=Coding+Is+An+Equalizer;Coding+Is+A+Journey;Coding+Is+A+Lifestyle;Coding+Is+Transformation" />
 </h1>
 
-```python
-class PhatNgo:
-    def __init__(self):
-        self.role = "Senior Technology Consultant"
-        self.education = "M.S. Analytics @ Georgia Tech"
-        self.location = "Atlanta, GA"
-        self.skills = ["SAP", "Data Science", "Algorithmic Trading", "Enterprise Solutions"]
-        
-    def current_focus(self):
-        return "Leading SAP implementations while developing trading algorithms"
-```
-        
+**Senior Technology Consultant** based in Atlanta — leading SAP intercompany‑transaction work for a top pharma client, building algorithmic futures strategies on the side, and finishing my M.S. in Analytics at Georgia Tech.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/phat-ngo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -31,11 +21,15 @@ class PhatNgo:
 - Develop algorithmic futures strategies (ES, NQ, GC, crude oil) in NinjaTrader  
 - Build interactive dashboards in Power BI, Tableau, Excel  
 
+## 🚀 Right Now
+- Designing intercompany‑transaction flows in SAP S/4HANA for a global pharma rollout
+- Backtesting regime‑aware mean‑reversion strategies on ES / NQ / GC / CL futures
+- Building a Monte Carlo risk engine for position sizing
+- Studying for the **SIE → Series 7 → Series 63** sequence
+
 ## 🌱 Currently Learning
-- **Advanced Enterprise AI** in SAP (extracellular flux analysis → immune bioenergetics)  
-- **Monte Carlo Simulations** & regime‑switching models for trading risk  
-- **Series 7** and **Series 63**
-- **Securities Industry Essentials**
+- **Advanced Enterprise AI in SAP** — practical LLM/ML integration into business processes
+- **Monte Carlo & regime‑switching models** for trading risk and position sizing
 
 ## 🛠 Tech Stack
 
@@ -79,25 +73,30 @@ class PhatNgo:
   – Lasso & ridge regressions, feature engineering in scikit-learn  
 
 ## 🎓 Education & Certifications
-- M.S. in Analytics (OMSA) @ Georgia Tech (courses: 6040, 6203, 6501, 6644)  
-- B.S. in Computer Information Systems @ Georgia State University  
-- Planning on getting if given a chance: Series 7, 66, 63, 55 & 3 (asset management & trading licenses)  
+- **M.S. in Analytics (OMSA)** — Georgia Tech (CSE 6040, ISYE 6203, ISYE 6501, ISYE 6644)
+- **B.S. in Computer Information Systems** — Georgia State University
+- Pursuing **Series 7, 63, 66, 55, 3** (asset management & trading licenses)
 
-## GitHub Stats
+## 📊 GitHub Stats
+<!--
+  The two cards below use the canonical github-readme-stats deployment, which
+  is frequently rate-limited / paused (HTTP 503 DEPLOYMENT_PAUSED). For a
+  permanent fix, fork anuraghazra/github-readme-stats, deploy your fork to
+  your own Vercel account, and replace the host below with your-app.vercel.app.
+-->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pngo5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- Language stats card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pngo5&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pngo5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pngo5&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </p>
 
 <!-- GitHub streak stats -->
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=pngo5&theme=dracula"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=pngo5&theme=dracula&hide_border=true"/>
 </p>
 
 <!-- GitHub trophy stats -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pngo5&theme=dracula&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pngo5&theme=dracula&column=7&margin-w=8&margin-h=8&no-frame=true"/>
 </p>
 
 <!-- 3D contribution graph (from your GitHub Actions workflow) -->
@@ -107,42 +106,12 @@ class PhatNgo:
   </a>
 </p>
 
-<!-- Alternate paths to try if the above doesn't work -->
-<!-- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pngo5/pngo5/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-</p>
--->
-
-<!-- Explanation about the automated workflow -->
 <details>
-  <summary>🔄 Automated 3D Contribution Updates</summary>
-  
-  ```yml
-  name: GitHub-Profile-3D-Contrib
-  on:
-    schedule:
-      # Runs at 12AM UTC
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      name: generate-github-profile-3d-contrib
-      steps:
-        - uses: actions/checkout@v3
-        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            USERNAME: ${{ github.repository_owner }}
-        - name: Commit & Push
-          run: |
-            git config user.name github-actions
-            git config user.email github-actions@github.com
-            git add -A .
-            git commit -m "generated"
-            git push
-  ```
+  <summary>🔄 How this updates automatically</summary>
+
+  The 3D graph and snake animation are regenerated by GitHub Actions —
+  see <a href="./.github/workflows/profile-3d.yml">profile-3d.yml</a> and
+  <a href="./.github/workflows/snake.yml">snake.yml</a>.
 </details>
 
 <picture>
